@@ -1,0 +1,10 @@
+[default]
+name=Default
+runtime=host
+config-opts=
+run-opts=
+prefix=/home/victor/.cache/gnome-builder/install/huddle-landing-page-with-single-introductory-section-master/host
+app-id=
+postbuild=
+prebuild=
+default=true
